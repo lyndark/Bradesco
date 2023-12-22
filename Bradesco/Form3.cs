@@ -41,7 +41,7 @@ namespace Bradesco
       {
         double temperatureKelvin = celsiusTemperature + 273.15;
 
-        MessageBox.Show($"Valor em Fahrenheit: {temperatureKelvin}");
+        MessageBox.Show($"Valor em Kelvin: {temperatureKelvin}");
       }
     }
   }
