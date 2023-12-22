@@ -1,7 +1,7 @@
 # Exercicios - Windows Forms. 
 
-## Projeto irá iniciar pelo formulário nomeado como "**FormMain**" <br>
-ele te dará a opção de selecionar o exercicio que deseja verificar. 
+## Projeto irá iniciar pelo formulário nomeado como "**FormMain**" 
+ele te dará a opção de selecionar o exercicio que deseja verificar. <br>
 ![FormMain](https://github.com/lyndark/Bradesco/assets/70786634/4aaad7bd-0775-4c92-a5a8-ec5d1da31f20)
 
 ## Exercicio 01
